@@ -61,10 +61,11 @@ This roadmap provides a visual guide to the skills, tools, and concepts you'll n
 
 ## Folder Structure
 
-- `/Day1-2`: Python basics scripts and exercises
-- `/Day3-4`: NumPy exercises and array manipulation scripts
-- `/Day5-6`: Pandas exercises and data cleaning scripts
-- `/Day7`: Statistics calculations and visualization scripts
+- [`/Day1-2`](./Day1-2): Python basics scripts and exercises
+- [`/Day3-4`](./Day3-4): NumPy exercises and array manipulation scripts
+- [`/Day5-6`](./Day5-6): Pandas exercises and data cleaning scripts
+- [`/Day7`](./Day7): Statistics calculations and visualization scripts
+
 
 Let's dive in and start our data analysis journey!
 

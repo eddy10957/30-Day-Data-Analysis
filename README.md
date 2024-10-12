@@ -23,7 +23,7 @@ Over these 30 days, I'll be diving deep into:
 
 This repository is organized week by week, with each week focusing on different aspects of data analysis:
 
-- `/Week1`: Python Basics and Data Analysis Foundations
+- [`/Week1`](./Week1): Python Basics and Data Analysis Foundations
 - `/Week2`: Advanced Python for Data Analysis and SQL Fundamentals
 - `/Week3`: Data Visualization and Statistical Analysis
 - `/Week4`: Introduction to Machine Learning and Capstone Project
