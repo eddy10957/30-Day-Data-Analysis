@@ -60,22 +60,27 @@ As I move into Week 2, I plan to:
 ### Data Visualization
 I created various types of plots using Matplotlib:
 
-1. Line Plot
-   ![Line Plot](./visualization_assets/line_plot.png)
-
-2. Scatter Plot
-   ![Scatter Plot](./visualization_assets/scatter_plot.png)
-
-3. Bar Plot
-   ![Bar Plot](./visualization_assets/bar_plot.png)
-
-4. Histogram
-   ![Histogram](./visualization_assets/histogram.png)
-
-5. Box Plot
-   ![Box Plot](./visualization_assets/box_plot.png)
-
-6. Subplots (combining multiple plot types)
-   ![Subplots](./visualization_assets/subplots.png)
+<table>
+  <tr>
+    <td>Line Plot</td>
+    <td>Scatter Plot</td>
+    <td>Bar Plot</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../../visualization_assets/line_plot.png"></td>
+    <td><img width="300" height="200" src="../../visualization_assets/scatter_plot.png"></td>
+    <td><img width="300" height="200" src="../../visualization_assets/bar_plot.png"></td>
+  </tr>
+  <tr>
+    <td>Histogram</td>
+    <td>Box Plot</td>
+    <td>Subplots</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../../visualization_assets/histogram.png"></td>
+    <td><img width="300" height="200" src="../../visualization_assets/box_plot.png"></td>
+    <td><img width="300" height="200" src="../../visualization_assets/subplots.png"></td>
+  </tr>
+</table>
 
 These visualizations helped me understand how to represent different types of data and relationships visually.
