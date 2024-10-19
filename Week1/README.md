@@ -13,23 +13,23 @@ By the end of this week, we aim to:
 
 ## Daily Breakdown
 
-### Day 1-2: Python Basics
+### [`Day 1-2`](./Day1-2): Python Basics
 - Variables and data types
 - Control structures (if/else, loops)
 - Functions and modules
 - Basic file I/O
 
-### Day 3-4: Introduction to NumPy
+### [`Day 3-4`](./Day3-4): Introduction to NumPy
 - NumPy array creation and operations
 - Array indexing and slicing
 - Basic linear algebra operations
 
-### Day 5-6: Getting Started with Pandas
+### [`Day 5-6`](./Day5-6): Getting Started with Pandas
 - Series and DataFrame objects
 - Data loading and basic operations
 - Data cleaning and preprocessing
 
-### Day 7: Basic Statistics and Review
+### [`Day 7`](./Day7): Basic Statistics and Review
 - Measures of central tendency and dispersion
 - Data visualization with Matplotlib
 - Review and solidify week's learning
