@@ -40,7 +40,7 @@ Throughout the week, we'll be working on several mini-projects:
 
 1. Create a simple calculator program (Day 2)
 2. Analyze and manipulate arrays of random numbers (Day 4)
-3. Explore and clean a simple dataset (e.g., Titanic dataset from Kaggle) (Day 6)
+3. Explore and clean a simple dataset (Day 6)
 4. Calculate and visualize basic statistics for our dataset (Day 7)
 
 ## Resources
@@ -49,7 +49,6 @@ Throughout the week, we'll be working on several mini-projects:
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Kaggle's Titanic Dataset](https://www.kaggle.com/c/titanic)
 
 ## Data Analyst Career Roadmap
 
