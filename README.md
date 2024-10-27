@@ -24,7 +24,7 @@ Over these 30 days, I'll be diving deep into:
 This repository is organized week by week, with each week focusing on different aspects of data analysis:
 
 - [`/Week1`](./Week1): Python Basics and Data Analysis Foundations
-- `/Week2`: Advanced Python for Data Analysis and SQL Fundamentals
+- [`/Week2`](./Week2): Advanced Python for Data Analysis and SQL Fundamentals
 - `/Week3`: Data Visualization and Statistical Analysis
 - `/Week4`: Introduction to Machine Learning and Capstone Project
 
@@ -47,7 +47,7 @@ I'll be updating this repository daily with my progress, code, and insights. Fee
 Alongside this repository, I'm documenting my journey through a series of blog posts. You can find links to these articles here:
 
 - [Article 1: My Roadmap to Becoming a Data Analyst: A 30-Day Challenge](https://medium.com/@eddotroianiello/my-roadmap-to-becoming-a-data-analyst-a-30-day-challenge-fc8733c53d10)
-- [Article 2: Week 1 Reflections: Python, Pandas, and Perseverance](#) (Coming Soon!)
+- [Article 2: From Zero to Hero: Learning Python for Data Analysis Week One](https://medium.com/learning-data/from-zero-to-hero-learning-python-for-data-analysis-week-one-c8e087ffb6a9)
 - [Article 3: Diving Deeper: SQL, Advanced Pandas, and Real-world Datasets](#) (Coming Soon!)
 - [Article 4: The Art of Data Storytelling: Visualization and Statistical Analysis](#) (Coming Soon!)
 - [Article 5: Machine Learning Foundations and Project Showcase](#) (Coming Soon!)
