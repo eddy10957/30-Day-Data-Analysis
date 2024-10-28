@@ -65,7 +65,32 @@ This roadmap provides a visual guide to the skills, tools, and concepts you'll n
 - [`/Day5-6`](./Day5-6): Pandas exercises and data cleaning scripts
 - [`/Day7`](./Day7): Statistics calculations and visualization scripts
 
+  ### Data Visualization
+I created various types of plots using Matplotlib:
 
-Let's dive in and start our data analysis journey!
+<table>
+  <tr>
+    <td>Line Plot</td>
+    <td>Scatter Plot</td>
+    <td>Bar Plot</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../visualization_assets/line_plot.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/scatter_plot.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/bar_plot.png"></td>
+  </tr>
+  <tr>
+    <td>Histogram</td>
+    <td>Box Plot</td>
+    <td>Subplots</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../visualization_assets/histogram.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/box_plot.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/subplots.png"></td>
+  </tr>
+</table>
+
+These visualizations helped me understand how to represent different types of data and relationships visually.
 
 Remember, this 30-day challenge is your first step on a longer journey. Use the roadmap to get a sense of where you're headed and what skills you'll be building in the future. For now, focus on mastering the basics we're covering this week. You're laying the foundation for an exciting career in data analysis!
