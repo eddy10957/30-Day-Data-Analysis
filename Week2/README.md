@@ -63,12 +63,36 @@ Throughout the week, I'll be working on several hands-on projects:
 - [`/Day12-13`](./Day12-13): Data cleaning and preprocessing scripts
 - [`/Day14`](./Day14): Integration projects and weekly review
 
-## Progress Tracking
+## My Progress and Results
 
-I'll be documenting my daily progress and insights in this repo, including:
-- Code samples and explanations
-- Challenge solutions
-- Key learnings and revelations
-- Practical applications of concepts
+### Data Visualizations
+Throughout Week 2, I created various visualizations for analyzing clinical data:
 
-Time to dive into databases and real-world data analysis!
+<table>
+  <tr>
+    <td>Daily Temperature Patterns</td>
+    <td>Patient Vital Signs</td>
+    <td>Violation Patterns</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../visualization_assets/daily_temperature_patterns.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/patient_vital_signs.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/violation_patterns.png"></td>
+  </tr>
+  <tr>
+    <td>Violation Counts</td>
+    <td>Feature Correlations</td>
+    <td>Success Rates</td>
+  </tr>
+  <tr>
+    <td><img width="300" height="200" src="../visualization_assets/violation_counts.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/feature_correlations.png"></td>
+    <td><img width="300" height="200" src="../visualization_assets/success_rates.png"></td>
+  </tr>
+</table>
+
+These visualizations helped me understand:
+- Patient vital signs patterns over time
+- Data quality issues and their distribution
+- Relationships between different clinical measurements
+- Treatment effectiveness across different groups
